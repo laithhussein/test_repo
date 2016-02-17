@@ -1,5 +1,7 @@
 ---
 title: Old Faithful Geyser
+Author: Stephanie Hicks
+Gender: Female
 ---
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
